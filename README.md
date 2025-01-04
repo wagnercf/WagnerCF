@@ -1,4 +1,4 @@
-<h1>Wagner Vinícius</h1>
+   <h1>Wagner Vinícius</h1>
 
 - :octocat: Olá bem-vindo(a) ao meu perfil, me chamo Wagner Vinícius tenho 22 anos e sou <strong>Técnico em Desenvolvimento de Sistemas</strong>
 - :space_invader: Linguagens que aprendi: <strong>PHP, CSharp, JavaScript, Python e MySQL</strong>
@@ -10,7 +10,7 @@
    <a href="https://github.com/wagnercf">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wagnercf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnercf&layout=compact&langs_count=7&theme=github_dark"/>
-</div>        
+</div>    
 
 <br>   
    <div> 
