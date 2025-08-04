@@ -10,7 +10,7 @@
   <!-- Contatos -->
   <p>
     <a href="mailto:wagnerviniciusoficial@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/wagnercf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/wagnervcf/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/wagnercf"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
     <img alt="Visitors" src="https://komarev.com/ghpvc/?username=wagnercf&style=for-the-badge&color=3ECF8E"/>
   </p>
@@ -38,6 +38,19 @@ Sou **Desenvolvedor Web** com foco em soluções digitais para vendas online. Cr
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email%20Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Marketing"/></a>
+</p>
+
+---
+
+## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagovilasboas&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagovilasboas&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 🤝 Contribuições
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagovilasboas&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
