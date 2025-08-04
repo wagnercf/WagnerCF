@@ -44,13 +44,13 @@ Sou **Desenvolvedor Web** com foco em soluções digitais para vendas online. Cr
 
 ## 📊 Estatísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagovilasboas&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagovilasboas&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wagnercf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagnercf&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ## 🤝 Contribuições
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tiagovilasboas&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wagnercf&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
