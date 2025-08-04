@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Wagner Vinícius</h1>
-  <strong>Developer Front-end • 5 anos de experiência</strong>
+  <strong>Desenvolvedor Web • Especialista em Sites & Automações para Vendas</strong>
 
-  <p>🚀 Transformo ideias em produtos digitais de impacto<br/>
-     🛠️ Clean code • UX • Performance • Arquitetura<br/>
-     🤝 Analista • Clean code • Creator • Open Source
+  <p>🚀 Crio sites que convertem e automações que escalam seu negócio<br/>
+     🛠️ Landing Pages • Integrações • Performance • Vendas Online<br/>
+     🤝 Foco em resultado • Soluções sob medida • Atendimento direto
   </p>
 
   <!-- Contatos -->
@@ -20,90 +20,62 @@
 
 ## 🎯 Sobre Mim
 
-**Developer Front-end** com 5 anos. Realizando projetos e concluindo, com visões que outros não conseguem imaginar.
+Sou **Desenvolvedor Web** com foco em soluções digitais para vendas online. Crio **sites otimizados, automações para captação e nutrição de leads, e integrações com ferramentas de marketing e pagamento**.
 
-> 💡 **Por que developer Front-end?** Porque sempre que precisam de um trabalho bem feito, eu vou e faço.
+> 💡 Meu objetivo é simples: fazer seu negócio vender mais com tecnologia acessível e funcional.
 
 ---
 
 ## ⚙️ Tech Stack
 <p align="center">
-  <!-- Front-end -->
-  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/></a>
-  <!-- Back-end -->
+  <!-- Web & Automação -->
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/></a>
-  <!-- Cloud -->
-  <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Puppeteer-40b5a4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Playwright-45BA65?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
-</p>
-
----
-
-## 📊 Estatísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wagnercf&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wagnercf&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-## 🤝 Contribuições
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wagnercf&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+  <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email%20Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Marketing"/></a>
 </p>
 
 ---
 
 ## 💼 O que eu faço
 
-### 🎯 Consultoria & Arquitetura
-- **Arquitetura Front-end**: Micro-frontends, Design Systems, Performance
-- **Migrações**: Legacy → Modern, Framework migrations
-- **ROI em Tecnologia**: Decisões baseadas em métricas de negócio
-- **Decision Wizard**: Escolha de arquitetura baseada em evidências
+### 🛠️ Sites e Vendas
+- **Criação de Sites para Vendas**: Landing pages, e-commerces, páginas de produtos e checkout
+- **Otimização de Conversão**: SEO técnico, velocidade, mobile-first
+- **Design Estratégico**: Layouts pensados para vendas e captação de leads
 
-### 🛠️ Desenvolvimento & DevOps
-- **Aplicações Enterprise**: React, TypeScript, Node.js
-- **Mobile**: Flutter, React Native (IoT, Saúde Digital)
-- **Performance**: Otimizações, métricas, monitoramento
-- **DevOps**: CI/CD, Cloud (AWS/Azure), Docker
-- **CSS Framework**: Sistema de design tokens e componentes reutilizáveis
+### 🤖 Automações para Marketing e Processos
+- **Integrações com WhatsApp, e-mail, APIs e CRMs**
+- **Bots para captura de leads, follow-up e envio de propostas**
+- **Extração e organização de dados de sites (scraping)**
 
-### 🤖 IA & Produtividade
-- **Regras para IAs**: .cursorrules baseadas em 7.4k+ cases reais
-- **Prompt Engineering**: Templates para React, Vue, Angular, Svelte
-- **ROI Comprovado**: 500-1900% de retorno no primeiro mês
-- **Performance**: +46% performance, -61% bundle size (Netflix, Airbnb, Uber, Spotify)
+### 🔗 Ferramentas que uso
+- Vercel, Netlify, Firebase, Node.js, Puppeteer, Playwright, Webhooks, Google Sheets API, Stripe, WhatsApp Business API
 
 ---
 
 ## 💬 Vamos Conversar?
 
-> 🚀 **Open to Work** — Developer Front-end / Systems Analyst (full-remote)
+> 📈 **Você quer vender mais online? Eu posso ajudar com tecnologia simples e eficaz.**
 
 ### 📞 Contato Direto
 - 📧 **E-mail**: [wagnerviniciusoficial@gmail.com](mailto:wagnerviniciusoficial@gmail.com)
-- 💼 **LinkedIn**: [Wagner Vinícius](https://www.linkedin.com/in/wagnervcf/)
+- 💼 **LinkedIn**: [Wagner Vinícius](https://www.linkedin.com/in/wagnercf/)
 
-### 🎯 Interesses
-- **Posições**: Developer Front-end, Systems Analyst, Pleno Front-end
-- **Modalidade**: Full-remote, híbrido
-- **Projetos**: Arquitetura, Performance, Clean Code
-- **Tecnologias**: React, TypeScript, Node.js, Cloud
+---
+
+## 🎯 Interesses
+- **Projetos**: Páginas de vendas, automações de atendimento, scripts personalizados
+- **Clientes**: Infoprodutores, e-commerces, prestadores de serviço, agências
+- **Tecnologias**: JavaScript, Node.js, Webhooks, APIs, no-code & low-code tools
 
 ---
 
 <div align="center">
-  <sub>⭐ Se algum projeto te ajudou, considere dar uma estrela!</sub>
+  <sub>⭐ Se algum projeto meu te ajudou, me manda uma mensagem — ou me indica pra alguém!</sub>
 </div>
-
-
