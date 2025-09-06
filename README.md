@@ -35,7 +35,7 @@ Sou **Desenvolvedor Web** com foco em automações empresariais na parte interna
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
   <a href="#"><img src="https://img.shields.io/badge/DJango-40b5a4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="DJango"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=Purple" alt="Bootstrap"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="PS1"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white" alt="PS1"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email%20Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Marketing"/></a>
 </p>
