@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Wagner Vinícius</h1>
-  <strong>Desenvolvedor Web • Especialista em Sites & Automações para Vendas</strong>
+  <strong>Desenvolvedor Web • Automações Empresariais & Desenvolvedor PowerShell</strong>
 
-  <p>🚀 Crio sites que convertem e automações que escalam seu negócio<br/>
-     🛠️ Landing Pages • Integrações • Performance • Vendas Online<br/>
+  <p>🚀 Realizo automações que otimiza processos empresariais<br/>
+     🛠️ Landing Pages • Integrações • BackEnd Full • Automações<br/>
      🤝 Foco em resultado • Soluções sob medida • Atendimento direto
   </p>
 
@@ -20,9 +20,9 @@
 
 ## 🎯 Sobre Mim
 
-Sou **Desenvolvedor Web** com foco em soluções digitais para vendas online. Crio **sites otimizados, automações para captação e nutrição de leads, e integrações com ferramentas de marketing e pagamento**.
+Sou **Desenvolvedor Web** com foco em automações empresariais na parte interna da empresa. Crio **sites automatizados, automações para otimizar tempo e serviço, com integrações já contruidas pelo regime interno**.
 
-> 💡 Meu objetivo é simples: fazer seu negócio vender mais com tecnologia acessível e funcional.
+> 💡 Meu objetivo é simples: fazer sua empresa ter excelencia em respostas e tecnologia acessível e funcional de ponta a ponta.
 
 ---
 
@@ -33,9 +33,9 @@ Sou **Desenvolvedor Web** com foco em soluções digitais para vendas online. Cr
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Puppeteer-40b5a4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Playwright-45BA65?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Puppeteer-40b5a4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="DJango"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Playwright-45BA65?style=for-the-badge&logo=playwright&logoColor=white" alt="Bootstrap"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="PS1"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Email%20Marketing-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Marketing"/></a>
 </p>
@@ -57,24 +57,21 @@ Sou **Desenvolvedor Web** com foco em soluções digitais para vendas online. Cr
 
 ## 💼 O que eu faço
 
-### 🛠️ Sites e Vendas
-- **Criação de Sites para Vendas**: Landing pages, e-commerces, páginas de produtos e checkout
-- **Otimização de Conversão**: SEO técnico, velocidade, mobile-first
-- **Design Estratégico**: Layouts pensados para vendas e captação de leads
-
-### 🤖 Automações para Marketing e Processos
-- **Integrações com WhatsApp, e-mail, APIs e CRMs**
-- **Bots para captura de leads, follow-up e envio de propostas**
-- **Extração e organização de dados de sites (scraping)**
+### 🛠️ Sites e Automações
+- **Criação de Sites para Automações**: Landing pages, Sistenas, páginas de respostas e checkout
+- **Otimização de Automação**: Técnico, velocidade, resposta curta e breve
+- **Design Estratégico**: Layouts pensados para respostas rapídas e diminuição de demandas
+ 
+---
 
 ### 🔗 Ferramentas que uso
-- Vercel, Netlify, Firebase, Node.js, Puppeteer, Playwright, Webhooks, Google Sheets API, Stripe, WhatsApp Business API
+- PS1, AI, JavaScript, Node.js, DJango, Webhooks, Bootstrap, API CRM "Customer Relationship Management"
 
 ---
 
 ## 💬 Vamos Conversar?
 
-> 📈 **Você quer vender mais online? Eu posso ajudar com tecnologia simples e eficaz.**
+> 📈 **Você quer automatizar mais os seus processos internos? Eu posso ajudar com tecnologia simples e eficaz.**
 
 ### 📞 Contato Direto
 - 📧 **E-mail**: [wagnerviniciusoficial@gmail.com](mailto:wagnerviniciusoficial@gmail.com)
@@ -83,7 +80,7 @@ Sou **Desenvolvedor Web** com foco em soluções digitais para vendas online. Cr
 ---
 
 ## 🎯 Interesses
-- **Projetos**: Páginas de vendas, automações de atendimento, scripts personalizados
+- **Projetos**: Páginas de automações, velocidade de resposta, scripts personalizados
 - **Clientes**: Infoprodutores, e-commerces, prestadores de serviço, agências
 - **Tecnologias**: JavaScript, Node.js, Webhooks, APIs, no-code & low-code tools
 
